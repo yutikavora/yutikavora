@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,6 +38,12 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
+![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=flat&logo=apple-music&logoColor=white)
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
 <a href="https://isocpp.org/std/the-standard" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> </a>
@@ -59,28 +66,14 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
 
 
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=flat&logo=apple-music&logoColor=white)
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/azizovrafael">
+<a href="https://github.com/yutikavora">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yutikavora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yutikavora&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/yutikavora"><img alt="Yutika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yutikavora&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
   
   ### 🤝🏻 &nbsp;Connect with Me
 
@@ -89,3 +82,25 @@ Here are some ideas to get you started:
 <a href="mailto:vorayutika@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/yutika_vora/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+  ### Developer(me) Sites and Applications
+- [Applicaiton](https://play-google-com.translate.goog/store/apps/details?id=com.sakuraz.wingz&hl=az&_x_tr_sl=az&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) - WingZ On Demand.
+- [Site](https://birainy.com/) - BIRainy.
+- [Site](http://birdil.az/) - Birdil.
+- [Site](http://alliance.net/) - Alliance Logistics.
+- [Site](http://roborek.com) - RoboRek.
+- [Site](http://technovateinvestments.com) - Technovate Investments.
+- [Site](http://technovate-sabah-angels.com/) - Technovate Sabah Angels.
+- [Site](http://wingz.az) - WingZ.
+- [Site](http://azizovrafael.com/) - My Portfilio Site.
+- [Site](http://Rosetour.az/) - RoseTour.
+- [Site](http://jobfier.com/) - Jobfier.
+- [Site](https://game.birainy.com) - BIRainy Game.
+- [Telegram Bot](https://t.me/adra_telegram_bot) - ADRA Telegram.
+- [Site](http://maeasyinvest.com/) - My Easy Invesment.
+- [Site](https://100.yelload.az/) - Heydar Aliyev's 100th anniversary.
+- [Site](http://azizovrafael.com/) - Portfolio site.  
+- [Site](http://exclusive-trip.com/) - Exclusive-Trip tourism site.
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azeriqaz Android OCR SDK.
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Azercosmos File system with OCR (Aze and Eng langs).
+- [Site](https://oliveiralawyers.com/wp-content/uploads/2023/02/non-disclosure-agreement2.jpg) - Inam Medical ERP system.
